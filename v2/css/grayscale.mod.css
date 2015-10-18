@@ -5,7 +5,7 @@
 a.thumbnail:hover,
 a.thumbnail:focus,
 a.thumbnail.active {
-  border: 3px solid;
+  border: 1px solid;
 }
 
 .content-section {
